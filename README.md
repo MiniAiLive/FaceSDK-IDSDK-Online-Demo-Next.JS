@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png" alt="MiniAiLive Logo" width="300">
   <h1>FaceSDK & IDSDK Online Demo (Next.js)</h1>
+  <img src="https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png" alt="MiniAiLive Logo" width="300">
   <p>Enterprise-grade on-premise biometric solutions demo</p>
 </div>
 
@@ -12,6 +12,7 @@ This repository contains a Next.js demo application showcasing MiniAiLive's comp
 - **Face Liveness Detection SDK**
 - **ID Document Recognition SDK** 
 - **ID Document Liveness Detection SDK**
+- **OpenKYC**
 
 👉 [Live Demo](https://demo.miniai.live)
 
@@ -42,22 +43,11 @@ This repository contains a Next.js demo application showcasing MiniAiLive's comp
    npm run dev
 4. Open http://localhost:3000 in your browser
 
-### Project Structure
-Key files and directories:
-.
-├── app/                  # Next.js app router
-│   ├── page.tsx          # Main demo page
-│   └── api/              # API routes
-├── lib/                  # Shared utilities
-├── components/           # React components
-└── public/               # Static assets
-
-## Deployment
-### Vercel (Recommended)
+## Deployment - Vercel (Recommended)
 [Deploy with Vercel](https://vercel.com/new/clone?repository-url=https%253A%252F%252Fgithub.com%252FMiniAiLive%252Ffacesdk-idsdk-online-demo-nextjs)
 
 ## Documentation
-For full SDK documentation and integration guides, visit: https://docs.miniai.live
+For full SDK documentation and integration guides, visit [here](https://docs.miniai.live)
 
 ## Request license
 If you want to test it on your own server, feel free to [Contact US](https://www.miniai.live/contact/) to get a trial License. We are 24/7 online on [WhatsApp](https://wa.me/+19162702374).
